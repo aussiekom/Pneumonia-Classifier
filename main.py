@@ -14,7 +14,7 @@ st.title('Pneumonia classification')
 # Page title
 st.markdown("""
 - This app allows you to predict the presence or absence of pneumonia by chest Xray.
-- App built in `Python (with using tensorflow)` + `Streamlit` by Evgeniia Komarova [LinkedIn](https://www.linkedin.com/in/evgeniia-komarova-523139235/) [GitHub](https://github.com/aussiekom)
+- App built in `Python (with using tensorflow)` + `Streamlit` by Evgeniia Komarova [LinkedIn](https://www.linkedin.com/in/evgeniia-komarova/) [GitHub](https://github.com/aussiekom)
 
 """)
 
